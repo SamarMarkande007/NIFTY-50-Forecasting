@@ -1,6 +1,6 @@
 # 📈 Hybrid ARIMA–LSTM NIFTY 50 Prediction System
 
-A hybrid time-series forecasting system that combines **ARIMA** and **LSTM** models to predict the **next trading day's NIFTY 50 closing price**. The project leverages ARIMA to capture linear trends and an LSTM network to model residual (non-linear) patterns, resulting in improved short-term forecasting performance. The application is deployed through a **Streamlit dashboard** for interactive visualization and prediction. :contentReference[oaicite:0]{index=0}
+A hybrid time-series forecasting system that combines **ARIMA** and **LSTM** models to predict the **next trading day's NIFTY 50 closing price**. The project leverages ARIMA to capture linear trends and an LSTM network to model residual (non-linear) patterns, resulting in improved short-term forecasting performance. The application is deployed through a **Streamlit dashboard** for interactive visualization and prediction. 
 
 ---
 
@@ -106,7 +106,7 @@ ARIMA Forecast
 Predicted Residual (LSTM)
 ```
 
-This combination improves prediction accuracy by utilizing the strengths of both statistical and deep learning models. :contentReference[oaicite:1]{index=1}
+This combination improves prediction accuracy by utilizing the strengths of both statistical and deep learning models. 
 
 ---
 
